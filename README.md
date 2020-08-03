@@ -5,6 +5,8 @@ I mainly work with Discord bots and Heroku related projects.
 # Repositories
 
 ## Currently maintaining
+[Discord ModMail plugins](https://github.com/codeinteger6/modmail-plugins)
+
 [Heroku libopus buildpack](https://github.com/codeinteger6/heroku-buildpack-libopus)
 
 [Discord MusicBot (Heroku)](https://github.com/helionmusic/rhinobot_heroku)
