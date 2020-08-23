@@ -12,9 +12,9 @@ I mainly work with Discord bots and Heroku related projects.
 [Discord MusicBot (Heroku)](https://github.com/helionmusic/rhinobot_heroku)
 
 ## Contributed to
-[Discord.RSS](https://github.com/synzen/Discord.RSS) [(Heroku Setup Guide)](https://github.com/synzen/Discord.RSS/issues/95)
+[Discord.RSS](https://github.com/synzen/MonitoRSS) [(Heroku Setup Guide)](https://github.com/synzen/MonitoRSS/issues/95)
 
-[Discord.RSS-Clone](https://github.com/synzen/Discord.RSS-Clone)
+[MonitoRSS-Clone](https://github.com/synzen/MonitoRSS-Clone)
 
 [Discord Modmail](https://github.com/kyb3r/modmail)
 
